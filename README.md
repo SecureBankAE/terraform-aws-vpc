@@ -13,10 +13,6 @@ The following providers are used by this module:
 
 - <a name="provider_aws"></a> [aws](#provider\_aws) (>= 5.0.0)
 
-## Modules
-
-No modules.
-
 ## Resources
 
 The following resources are used by this module:
