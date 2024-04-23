@@ -1,4 +1,8 @@
 <!-- BEGIN_TF_DOCS -->
+## Guide
+
+Example of how to use this module - https://github.com/SecureBankAE/terraform-approved-modules/tree/main/aws/vpc/example
+
 ## Requirements
 
 The following requirements are needed by this module:
