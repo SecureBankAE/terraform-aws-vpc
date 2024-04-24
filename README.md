@@ -1,5 +1,5 @@
 <!-- BEGIN_TF_DOCS -->
-## Guide for SecureBank
+## Guide
 
 Example of how to use this module - https://github.com/SecureBankAE/terraform-approved-modules/tree/main/aws/vpc/example
 
